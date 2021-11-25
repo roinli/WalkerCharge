@@ -1,6 +1,5 @@
-
 ## 平台简介
-### 网络原因目前都将代码放在https://gitee.com/dnxt111/walker.git
+
 行者（walker）是物联网充电桩快速开发平台，毫无保留给个人及企业免费使用。
 初衷，发现很多开源的产品缺东西，比如缺公众号，我们希望开源一套只要懂java的开发人员就能进行部署使用。
 
@@ -50,6 +49,11 @@
         <td><img src="http://shenqihezi.nxptdn.com/2统计.png"/></td>
         <td><img src="http://shenqihezi.nxptdn.com/3设备管理.png"/></td>
     </tr>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/卡管理2.png"/></td>
+        <td><img src="http://shenqihezi.nxptdn.com/扫码成功.png"/></td>
+        <td><img src="http://shenqihezi.nxptdn.com/提现.png"/></td>
+    </tr>
 </table>
 
 ## 如何部署
@@ -59,5 +63,7 @@
 
 * 微信：18601938676(商业版本添加时请标明行者开源充电桩快速开发平台) 
 * qq：544061884(开源版本请加qq)  
+
+## 行者，物联网充电桩快速平台由芯正科技（宁夏）公司投资建设。
 
 
