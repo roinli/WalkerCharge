@@ -79,13 +79,7 @@ https://gitee.com/dnxt111/walker.git
     </tr>
 </table>
 
-## 原型演示  
 
-#### 手机端： 
-http://shenqihezi.nxptdn.com/cdz-20211129mobile/start.html#id=u13gxx&p=1_1_%E5%85%85%E7%94%B5&g=1
-
-#### PC端：
-http://shenqihezi.nxptdn.com/cdz-walker-20211129pc/start.html
 
 ## 如何部署
 请参考每个工程都有READEME.md文档（详细的开发性文档，陆续更新）
